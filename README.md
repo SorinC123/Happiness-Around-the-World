@@ -15,7 +15,6 @@ The datasets are sourced from Kaggle and contain data from the Gallup World Poll
 
 The data can be accessed here:
 https://www.kaggle.com/datasets/unsdsn/world-happiness
-.
 
 ## Folders
 The folder structure and their contents are outlined below:
@@ -32,6 +31,3 @@ Code was written in Python and executed in Jupyter notebooks.
 - Seaborn: For statistical data visualization and creating graphics.
 - Scipy: For scientific and technical computing.
 - Statsmodels.api: For linear regression, logistic regression, time series models. 
-
-## Disclaimer: 
-Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purpose of data depersonalization. 
