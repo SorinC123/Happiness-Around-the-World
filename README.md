@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 ## Folders
 The folder structure and their contents are outlined below:
-- 01 Data: Data was not uploaded due to size restrictions.
+- 01 Data: Data sourced from Kaggle in CSV format and an Excel file with the Data Dictionary.
 - 02 Scripts: Python code used in the analysis, executed using Jupyter Notebooks.
 
 ## Coding Overview
@@ -31,6 +31,7 @@ Code was written in Python and executed in Jupyter notebooks.
 - Matplotlib.pyplot: For creating static, interactive, and animated visualizations.
 - Seaborn: For statistical data visualization and creating graphics.
 - Scipy: For scientific and technical computing.
+- Statsmodels.api: For linear regression, logistic regression, time series models. 
 
 ## Disclaimer: 
 Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purpose of data depersonalization. 
