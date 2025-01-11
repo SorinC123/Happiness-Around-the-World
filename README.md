@@ -1,4 +1,4 @@
-# Happiness Around the World Project
+# Happiness Around the World
 
 ## Project Summary
 This project analyzes global happiness trends from 2015 to 2019, using data from the Gallup World Poll, sourced via Kaggle. The study aims to explore the factors influencing happiness across countries and regions, identify patterns, and provide insights into the disparities in life satisfaction worldwide.
